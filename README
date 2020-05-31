@@ -1,3 +1,8 @@
+ PENTRU TESTARE:
+  -se pun toate fisierele intr-un document;
+  -din terminal -> comanda 'make'
+  -apoi : 'make runTestArbori' ; 'make runTestIntersectii' ; 'make runTestPozitie';
+ 
  Task1
   Pentru prima parte, am construit o functie ajutatoare "creare_nod" pentru crearea unui nod, dupa modelul din pdf-ul cu explicatii. Apoi aloc memorie si construiesc arborele si initializez toate campurile acestuia.
   Functiile de actualizare si interogare pentru un interval al unui nod le-am construit tot dupa modelul dat in pdf.
