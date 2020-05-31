@@ -1,0 +1,13 @@
+ Task1
+  Pentru prima parte, am construit o functie ajutatoare "creare_nod" pentru crearea unui nod, dupa modelul din pdf-ul cu explicatii. Apoi aloc memorie si construiesc arborele si initializez toate campurile acestuia.
+  Functiile de actualizare si interogare pentru un interval al unui nod le-am construit tot dupa modelul dat in pdf.
+
+Task2
+  In aceasta parte, am citit datele din fisier, am alocat memoria necesara si apoi am citit datele pentru intervale.
+
+Pentru modul trivial, am parcurs lista si am calculat cu doua for-uri numarul de intersectii luand in considerare fiecare interval.
+
+Task bonus
+  Am citit datele din fisier si am initializat campurile structurii "date".
+
+In modul trivial, am initializat vectorul "raspuns" cu -1 pentru a putea face coparatiile de mai tarziu, apoi am parcurs lista cu numerele din fisier si am creat vectorul "raspuns" conform cerintei.
